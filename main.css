@@ -70,18 +70,21 @@ a{
 }
 h2{
 	font-family: "Helvetica Neue", Helvetica, sans-serif;
-	font-size: 3em;
+	font-size: 2.8em;
 	font-weight: 100;
 	text-align: center;
 	color: white;
 }
 nav{
     margin: 3em auto;
-    width: 30%;
+    padding: 30px;
+    width: 48%;
+    background-color: rgba(255, 255, 255, 0.171);
+    border-radius: 50px;
 }
 nav li{
     font-family: "Helvetica Neue", Helvetica, sans-serif;
-    font-size: 2em;
+    font-size: 1.4em;
     font-weight: 100;
     color: white;
 }
@@ -98,7 +101,7 @@ nav div{
     float: right;
 }
 main{
-    width: 80%;
+    width: 90%;
     margin: auto;
     padding: 40px 0;
     border-radius: 20px;
@@ -108,24 +111,25 @@ article section h2{
     margin: 40px auto;
 }
 p{
-    width: 58%;
+    width: 70%;
     margin: 20px auto;
     font-family: "Helvetica Neue", Helvetica, sans-serif;
-    font-size: 2em;
+    font-size: 1.9em;
     font-weight: 100;
     color: white;
+    line-height: 1.3em;
 }
 figure{
     margin: 20px auto;
 }
 article section img{
     display: block;
-    width: 30%;
+    width: 50%;
     border: 7px solid black;
     margin: 40px auto 10px auto;
 }
 figcaption{
-    width: 30%;
+    width: 50%;
     margin: 0 auto;
     text-align: center;
     font-family: "Helvetica Neue", Helvetica, sans-serif;
