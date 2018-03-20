@@ -90,6 +90,7 @@ nav{
 nav li{
     font-family: "Helvetica Neue", Helvetica, sans-serif;
     font-size: 1.4em;
+    line-height: 1.6em;
     font-weight: 100;
     color: white;
 }
